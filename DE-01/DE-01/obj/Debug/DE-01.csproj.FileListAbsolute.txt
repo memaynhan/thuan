@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\DE-01\DE-01\obj\Debug\DE-01.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\DE-01\DE-01\obj\Debug\DE-01.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\DE-01\DE-01\obj\Debug\DE_01.frmSV.resources
+C:\Users\USER\source\repos\DE-01\DE-01\obj\Debug\DE_01.Properties.Resources.resources
+C:\Users\USER\source\repos\DE-01\DE-01\obj\Debug\DE-01.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\DE-01\DE-01\obj\Debug\DE-01.csproj.CoreCompileInputs.cache
